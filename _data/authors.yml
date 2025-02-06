@@ -1,0 +1,102 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# Change `author1` to your shortname.
+author1:
+  name:              <Tommy> <Ang>
+  email:             <angyl94@hotmail.com>
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+    Hi, I am Tommy Ang, a Computer Engineer with a passion for storytelling.  
+    My work blends the precision of software development with the emotional depth of film,  
+    exploring how technology and narrative intersect.  
+
+    Whether it is building automation solutions, developing computer vision models,  
+    or crafting cinematic experiences, I strive to create work that is both functional and evocative.  
+    Welcome to my space, where engineering meets creativity.
+
+
+  # This photo will be used in the about section
+  picture:
+    path:            data:image/jpeg;base64,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
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+    srcset:
+      1x:            data:image/jpeg;base64,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
+      2x:            data:image/jpeg;base64,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
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  # You can also provide an absolute URL (starting with https://) instead of usernames
+  social:
+    twitter:         <username>
+    github:          <username>
+    # email:           <mail@domain.tld>
+    # rss:             https://<url>/feed.xml
+    # facebook:        <username>
+    # google:          <number>
+    # vk:              <username>
+    # youtube:         <string_string_string>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # instagram:       <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    # linkedin:        <firstname-lastname-string>
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+    # download:        <url>
+    # keybase:         <username>
+    # signal:          <group-invite-code>
+    # threads:         @<username>
+    # playstation:     https://<url>
+    # messenger:       https://<url>
+    # stripe:          https://<url>
+    # slack:           https://<url>
+    # gitlab:          <username>
+    # line:            <username>
+    # medium:          <path>
+    # xbox:            <gamer-tag>
+    # wechat:          https://<url>
+    # discord:         <invite-code>
+    # mastodon:        https://<url>
+    # x:               <username>
+
+# Another author (optional)
+author2:
+  name:              <Tommy> <Ang>
+  email:             <angyl94@hotmail.com>
+  about:             |
+    Hi, I am Tommy Ang, a Computer Engineer with a passion for storytelling.  
+    My work blends the precision of software development with the emotional depth of film,  
+    exploring how technology and narrative intersect.  
+
+    Whether it is building automation solutions, developing computer vision models,  
+    or crafting cinematic experiences, I strive to create work that is both functional and evocative.  
+    Welcome to my space, where engineering meets creativity.
+
+  picture:           https://drive.google.com/file/d/1jzICSA5nBnudf0Fy2kSFmXdHAWtq7uW0/view?usp=drive_link
+  twitter:           <username>
+  github:            <username>

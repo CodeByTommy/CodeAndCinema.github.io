@@ -1,0 +1,246 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Tommy Ang"
+  label: "Programmer"
+  picture: "https://via.placeholder.com/240x240"
+  email: ""
+  phone: "+65 9371 6271"
+  website: "www.linkedin.com/in/tommy-ang-7520a423a"
+  summary: >
+    Tommy Ang is a Computer Engineer with a Minor in Film from Nanyang Technological University, Singapore. He has a strong background in software development, computer vision, and embedded systems, with professional experience in automation solutions and healthcare technology.
+    His expertise includes Python, C, Java, and Verilog, and he has contributed to multiple academic and industrial projects. Beyond engineering, he has a keen interest in film studies, visual storytelling, and digital media. His hobbies include playing musical instruments and marathon running.
+  location:
+    address: "Choa Chu Kang Ave 4"
+    postalCode: ""
+    city: "Singapore"
+    countryCode: "SG"
+    region: "Asia"
+  profiles:
+    - network: "Twitter"
+      username: "Tyll94"
+      url: ""
+    - network: "LinkedIn"
+      username: "Tommy Ang"
+      url: "www.linkedin.com/in/tommy-ang-7520a423a"
+
+work:
+  - company: "Craft Health Pte. Ltd"
+    position: "Computer Vision Software Engineer (Intern)"
+    website: "https://crafthealth.me/"
+    startDate: "2024-01-01"
+    endDate: "2024-07-01"
+    summary: >
+      Designed and developed automation solutions using computer vision, leading to a 50% reduction in manpower effort
+      and a 100% increase in productivity. Integrated vision-based quality checks into pharmaceutical 3D printing processes.
+    highlights:
+      - "Developed a computer vision model for precise 3D printing of pharmaceutical supplements."
+      - "Automated real-time quality control for pharmaceutical manufacturing."
+      - "Optimized classification algorithms for drug identification and quality assessment."
+
+  - company: "ST Engineering Mission Software & Services Pte. Ltd"
+    position: "Hospital Command Center Intern"
+    website: "https://www.stengg.com/"
+    startDate: "2023-05-01"
+    endDate: "2023-08-01"
+    summary: >
+      Developed an automation testing system using Playwright for healthcare software, improving testing accuracy and efficiency.
+      Conducted performance analysis for SQL query optimization in a hospital command system.
+    highlights:
+      - "Built an automation testing system reducing manual testing workload."
+      - "Optimized SQL queries to enhance database performance."
+      - "Contributed to the development of Integrated Health Information Systems."
+
+  - company: "Singapore Armed Forces"
+    position: "Army Intelligence Specialist"
+    startDate: "2015-02-01"
+    endDate: "2021-08-01"
+    summary: >
+      Led tactical evaluation missions and trained over 3000 soldiers in reconnaissance, logistics, and tactical operations.
+      Conducted overseas intelligence terrain analysis and supported mission readiness.
+    highlights:
+      - "Coordinated evaluation missions for battalion-sized units."
+      - "Trained over 3000 soldiers in various military crafts and operations."
+      - "Led intelligence analysis for 20 different country maps."
+
+education:
+  - institution: "Nanyang Technological University, Singapore"
+    area: "Computer Engineering with Minor in Film"
+    studyType: "Bachelor of Engineering"
+    startDate: "2021-08-01"
+    endDate: "2025-05-01"
+    gpa: "3.2"
+    courses:
+      - "Specialise in Artificail Intelligence(AI) and Internet of Things(IOT)"
+      - "Minor in Film"
+
+  - institution: "Ngee Ann Polytechnic, Singapore"
+    area: "Electronic and Computer Engineering"
+    studyType: "Diploma"
+    startDate: "2012-04-01"
+    endDate: "2015-02-01"
+    gpa: "3.7"
+    courses:
+      - "Dean’s List for all Semesters, 2012/2013"
+      - "Xilinx Asia Pacific Prize Award for Electronic Design"
+      - "Joint Polytechnic SAF Diploma Scheme Scholarship"
+
+academic_projects:
+  - title: "Final Year Project – CodeLimb: AI-Powered Bionic Arm"
+    institution: "Nanyang Technological University, Singapore"
+    startDate: "2024-08-01"
+    endDate: "2025-05-01"
+    summary: >
+      Developed a real-time AI-driven bionic arm, integrating machine learning and IoT to assist amputees in regaining natural hand movements.
+    highlights:
+      - "Implemented EMG signal processing for precise motion control."
+      - "Designed an embedded system (STM32) for low-latency movement execution."
+      - "Optimized deep learning models for adaptive hand gestures."
+
+  - title: "VisionMed: AI-Powered Pharmaceutical Quality Control"
+    institution: "Nanyang Technological University, Singapore"
+    startDate: "2023-08-01"
+    endDate: "2024-04-01"
+    summary: >
+      Built an AI-based computer vision system for real-time defect detection in pharmaceutical tablets, ensuring industry-grade quality control.
+    highlights:
+      - "Developed deep learning models (CNNs, TensorFlow, PyTorch) for high-accuracy classification."
+      - "Integrated Edge AI solutions for real-time processing in industrial environments."
+      - "Achieved significant efficiency improvements in quality control processes."
+
+  - title: "Online Marketplace for Freelance Services"
+    institution: "Ngee Ann Polytechnic, Singapore"
+    startDate: "2014-08-01"
+    endDate: "2015-02-01"
+    summary: >
+      Created a mobile and web-based platform for freelancers to connect with businesses, streamlining service transactions.
+    highlights:
+      - "Developed a real-time mobile application using Android Studio."
+      - "Designed a user-friendly web interface for seamless navigation."
+      - "Optimized backend storage for dynamic user profile updates."
+
+awards:
+  - title: "Xilinx Asia Pacific Prize Award"
+    date: "2014-11-01"
+    awarder: "Ngee Ann Polytechnic, Singapore"
+    summary: "Xilinx Asia Pacific Prize Award for Electronic Design"
+
+publications:
+  - name: "Cinematic Storytelling Collection"
+    publisher: "Tommy Ang"
+    releaseDate: "2023-11-01"
+    website: "https://www.youtube.com/watch?v=VgzobnepkV4&list=PLmyLsh61IFdzxcEls917HZ3Wkfty_bobA"
+    summary: "A curated collection of my cinematic storytelling projects, including *Trace* and *Waiting Room*. 
+      This playlist showcases my work in film editing, script supervision, and narrative-driven filmmaking, 
+      highlighting my passion for visual storytelling and emotional depth in cinema."
+
+  - name: "CodeLimb: AI-Powered Bionic Arm"
+    publisher: "Tommy Ang"
+    releaseDate: "2025-05-01"
+    website: "https://www.linkedin.com/in/tommy-ang-7520a423a/"  # Add a project link if available
+    summary: "Developed an AI-driven bionic arm that utilizes machine learning and IoT for real-time motion control. 
+      Integrated EMG signal processing and an STM32-based embedded system to replicate natural hand movements, 
+      enhancing accessibility for amputees. Optimized deep learning models for adaptive gesture recognition."
+
+  - name: "VisionMed: AI-Powered Pharmaceutical Quality Control"
+    publisher: "Tommy Ang"
+    releaseDate: "2024-04-01"
+    website: "https://www.linkedin.com/in/tommy-ang-7520a423a/"  # Add a project link if available
+    summary: "Designed and implemented a real-time defect detection system for pharmaceutical tablets using 
+      AI-driven computer vision. Developed deep learning models with CNNs in TensorFlow and PyTorch, 
+      achieving high-accuracy classification. Integrated Edge AI solutions for industrial automation, 
+      improving efficiency in pharmaceutical manufacturing."
+
+  - name: "Online Marketplace for Freelance Services"
+    publisher: "Tommy Ang"
+    releaseDate: "2015-02-01"
+    website: "https://www.linkedin.com/in/tommy-ang-7520a423a/"  # Add a project link if available
+    summary: "Developed a web and mobile-based platform to connect freelancers with businesses. 
+      Designed a user-friendly marketplace with real-time digital storage and dynamic user profiles. 
+      Built using Android Studio and optimized backend storage for seamless service transactions."
+
+skills:
+  - name: "Software Development"
+    level: "Advanced"
+    keywords:
+      - "Python"
+      - "C"
+      - "Java"
+      - "Verilog"
+      - "Basic Assembly"
+      - "SQL"
+  - name: "Computer Vision & Automation"
+    level: "Intermediate"
+    keywords:
+      - "OpenCV"
+      - "Machine Learning"
+      - "Image Processing"
+  - name: "Web Development"
+    level: "Intermediate"
+    keywords:
+      - "HTML"
+      - "CSS"
+      - "JavaScript"
+  - name: "Creative Media"
+    level: "Intermediate"
+    keywords:
+      - "Adobe Premiere Pro"
+      - "After Effects"
+      - "Photoshop"
+
+volunteer:
+  - organization: "Regular Service Project(RSP) Youth Outreach Tutor"
+    position: "Student Teacher test"
+    startDate: "2022-08-01"
+    endDate: "2023-07-01"
+    summary: >
+      Mentored underprivileged students by providing academic support and guidance, 
+      fostering confidence, critical thinking, and personal growth. Designed engaging 
+      lesson plans, tailored teaching methods to individual needs, and helped build 
+      a positive learning environment.
+    highlights:
+      - Conducted structured tutoring sessions to improve student understanding and performance.
+      - Provided mentorship to encourage self-confidence and independent learning.
+      - Organized interactive discussions to improve engagement and knowledge retention.
+
+  - organization: "IEEE NTU Student Club"
+    position: "Marketing (Design) Officer"
+    startDate: "2022-08-01"
+    endDate: "2023-08-01"
+    summary: >
+      Designed marketing materials and managed social media outreach for IEEE NTU, engaging over 100 members.
+    highlights:
+      - "Increased event attendance through strategic social media campaigns."
+      - "Designed infographics and digital assets for club events."
+
+  - organization: "Engineers Without Borders"
+    position: "Project Director for Movement of Inclusivity"
+    startDate: "2022-08-01"
+    endDate: "2023-07-01"
+    summary: >
+      Led projects raising awareness for social causes through web development and digital campaigns.
+    highlights:
+      - "Developed a web interface to promote social inclusion initiatives."
+      - "Managed coding teams to troubleshoot and enhance website functionalities."
+
+languages:
+  - language: "English"
+    fluency: "Fluent"
+  - language: "Chinese"
+    fluency: "Fluent"
+
+interests:
+  - name: "Music"
+    keywords:
+      - "Guitar"
+      - "Cajon"
+      - "Violin"
+  - name: "Sports & Fitness"
+    keywords:
+      - "Marathon Running"
+
+references:
+  - name: "Tommy Ang"
+    reference: >
+      Available upon request
