@@ -47,6 +47,7 @@ Through restrained storytelling and carefully composed visuals, *Waiting Room* c
 💭 **The emotions that unfold in the spaces between moments** 
 
 Watch *Waiting Room* here: [<a href="https://www.youtube.com/watch?v=NivWrGfiqKA&list=PLmyLsh61IFdzxcEls917HZ3Wkfty_bobA&index=2">*Waiting Room*</a>]  
+Credit: The footage of the film belongs to NTU. (All rights Reserved)
 
 ---
 
