@@ -32,7 +32,7 @@ This site serves as my **portfolio, blog, and personal archive**, built to showc
 ## **📩 Let’s Connect**
 If you’re interested in **collaborating, learning more about my work, or discussing AI, finance, or film**, feel free to reach out.  
 
-🔹 **[LinkedIn](https://www.linkedin.com/in/tommy-ang-7520a423a/)** – Professional network.  
+🔹 **[LinkedIn](https://www.linkedin.com/in/tommy-ang-7520a423a/)** – Professional network. 
 🔹 **[YouTube](https://www.youtube.com/watch?v=VgzobnepkV4&list=PLmyLsh61IFdzxcEls917HZ3Wkfty_bobA)** – My cinematic storytelling.  
 🔹 **[Email](angyl94@hotmail.com)** – Let’s chat!  
 
