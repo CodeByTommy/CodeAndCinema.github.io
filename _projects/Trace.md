@@ -9,11 +9,11 @@ description: >
 
 date: '01-11-2023'
 image: 
-  path: https://media.licdn.com/dms/image/sync/v2/D5627AQFbKt8znT1LbQ/articleshare-shrink_800/articleshare-shrink_800/0/1738650224472?e=1739282400&v=beta&t=LWc5buWtXa2gdd-26uOoeTkHxxru6H-p-UxCu8IAbnM
+  path: https://media.licdn.com/dms/image/sync/v2/D5627AQFbKt8znT1LbQ/articleshare-shrink_800/articleshare-shrink_800/0/1738650224472?e=1739948400&v=beta&t=tV1WJj5MUWBUm2IEybu0hGhdOpaClQx7qwTw7UoPzfQ
   srcset: 
-    1920w: https://media.licdn.com/dms/image/sync/v2/D5627AQFbKt8znT1LbQ/articleshare-shrink_800/articleshare-shrink_800/0/1738650224472?e=1739282400&v=beta&t=LWc5buWtXa2gdd-26uOoeTkHxxru6H-p-UxCu8IAbnM
-    960w:  https://media.licdn.com/dms/image/sync/v2/D5627AQFbKt8znT1LbQ/articleshare-shrink_800/articleshare-shrink_800/0/1738650224472?e=1739282400&v=beta&t=LWc5buWtXa2gdd-26uOoeTkHxxru6H-p-UxCu8IAbnM
-    480w:  https://media.licdn.com/dms/image/sync/v2/D5627AQFbKt8znT1LbQ/articleshare-shrink_800/articleshare-shrink_800/0/1738650224472?e=1739282400&v=beta&t=LWc5buWtXa2gdd-26uOoeTkHxxru6H-p-UxCu8IAbnM
+    1920w: https://media.licdn.com/dms/image/sync/v2/D5627AQFbKt8znT1LbQ/articleshare-shrink_800/articleshare-shrink_800/0/1738650224472?e=1739948400&v=beta&t=tV1WJj5MUWBUm2IEybu0hGhdOpaClQx7qwTw7UoPzfQ
+    960w:  https://media.licdn.com/dms/image/sync/v2/D5627AQFbKt8znT1LbQ/articleshare-shrink_800/articleshare-shrink_800/0/1738650224472?e=1739948400&v=beta&t=tV1WJj5MUWBUm2IEybu0hGhdOpaClQx7qwTw7UoPzfQ
+    480w:  https://media.licdn.com/dms/image/sync/v2/D5627AQFbKt8znT1LbQ/articleshare-shrink_800/articleshare-shrink_800/0/1738650224472?e=1739948400&v=beta&t=tV1WJj5MUWBUm2IEybu0hGhdOpaClQx7qwTw7UoPzfQ
 links:
   - title: Link
     url: https://www.youtube.com/watch?v=VgzobnepkV4&list=PLmyLsh61IFdzxcEls917HZ3Wkfty_bobA
