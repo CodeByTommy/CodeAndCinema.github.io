@@ -9,11 +9,11 @@ description: >
 
 date: 1 Jan 2024
 image: 
-  path: https://media.licdn.com/dms/image/v2/D562DAQFTP9l9zB0cBA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738636694730?e=1739282400&v=beta&t=DWfLl5KfaHB1xNnWDdTkZIIaPZpiK-HTxS6sR0t1Lr0
+  path: https://media.licdn.com/dms/image/v2/D562DAQHuce-75WwjKQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738652219952?e=1739944800&v=beta&t=7iZTdUSDT1UFcL101SY4kj9Xu6WIV9Z-FvehnzyX3So
   srcset: 
-    1920w: https://media.licdn.com/dms/image/v2/D562DAQFTP9l9zB0cBA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738636694730?e=1739282400&v=beta&t=DWfLl5KfaHB1xNnWDdTkZIIaPZpiK-HTxS6sR0t1Lr0
-    960w:  https://media.licdn.com/dms/image/v2/D562DAQFTP9l9zB0cBA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738636694730?e=1739282400&v=beta&t=DWfLl5KfaHB1xNnWDdTkZIIaPZpiK-HTxS6sR0t1Lr0
-    480w:  https://media.licdn.com/dms/image/v2/D562DAQFTP9l9zB0cBA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738636694730?e=1739282400&v=beta&t=DWfLl5KfaHB1xNnWDdTkZIIaPZpiK-HTxS6sR0t1Lr0
+    1920w: https://media.licdn.com/dms/image/v2/D562DAQHuce-75WwjKQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738652219952?e=1739944800&v=beta&t=7iZTdUSDT1UFcL101SY4kj9Xu6WIV9Z-FvehnzyX3So
+    960w:  https://media.licdn.com/dms/image/v2/D562DAQHuce-75WwjKQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738652219952?e=1739944800&v=beta&t=7iZTdUSDT1UFcL101SY4kj9Xu6WIV9Z-FvehnzyX3So
+    480w:  https://media.licdn.com/dms/image/v2/D562DAQHuce-75WwjKQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738652219952?e=1739944800&v=beta&t=7iZTdUSDT1UFcL101SY4kj9Xu6WIV9Z-FvehnzyX3So
 links:
   - title: Link
     url: https://www.linkedin.com/in/tommy-ang-7520a423a/?trk=opento_sprofile_details
