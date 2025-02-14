@@ -2,7 +2,7 @@
 layout: post
 title: "Bringing Stories to Life"
 image: 
-  path: https://media.licdn.com/dms/image/v2/D562DAQFonf86TDsmLg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738774687780?e=1739379600&v=beta&t=9VgeRdoGCbo91cvM7edd4nVy1S5vpjnBcJqo2wqUKII
+  path: /assets/img/WaitingRoom.png
 description: >
   Exploring the emotions and narratives of Trace and Waiting Room—two films that reflect on time, memory, and human connection.
 sitemap: false
