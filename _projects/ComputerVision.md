@@ -9,11 +9,11 @@ description: >
 
 date: 1 Jan 2024
 image: 
-  path: https://media.licdn.com/dms/image/v2/D562DAQHuce-75WwjKQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738652219952?e=1739944800&v=beta&t=7iZTdUSDT1UFcL101SY4kj9Xu6WIV9Z-FvehnzyX3So
+  path: /assets/img/CraftHealth.jpg
   srcset: 
-    1920w: https://media.licdn.com/dms/image/v2/D562DAQHuce-75WwjKQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738652219952?e=1739944800&v=beta&t=7iZTdUSDT1UFcL101SY4kj9Xu6WIV9Z-FvehnzyX3So
-    960w:  https://media.licdn.com/dms/image/v2/D562DAQHuce-75WwjKQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738652219952?e=1739944800&v=beta&t=7iZTdUSDT1UFcL101SY4kj9Xu6WIV9Z-FvehnzyX3So
-    480w:  https://media.licdn.com/dms/image/v2/D562DAQHuce-75WwjKQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738652219952?e=1739944800&v=beta&t=7iZTdUSDT1UFcL101SY4kj9Xu6WIV9Z-FvehnzyX3So
+    1920w: /assets/img/CraftHealth.jpg
+    960w:  /assets/img/CraftHealth.jpg
+    480w:  /assets/img/CraftHealth.jpg
 links:
   - title: Link
     url: https://www.linkedin.com/in/tommy-ang-7520a423a/?trk=opento_sprofile_details
