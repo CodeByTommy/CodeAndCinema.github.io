@@ -2,7 +2,7 @@
 layout: post
 title: "My Professional Journey"
 image: 
-  path: https://media.licdn.com/dms/image/v2/D562DAQF_FXYBTMnmzg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738801990548?e=1739408400&v=beta&t=GW6Y8cQ92IsLN5VkxHWGBCVeq89mw_PVaRNOV9GHxDY
+  path: /assets/img/BlogRM.png
 description: >
   A look into my professional journey, from AI and IoT development to cinematic storytelling, military leadership, and financial advisory. Explore my experience, projects, and career trajectory.
 sitemap: false
