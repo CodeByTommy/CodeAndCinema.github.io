@@ -9,11 +9,11 @@ description: >
 
 date: 12 Jan 2025
 image: 
-  path: https://media.licdn.com/dms/image/v2/D562DAQEmMclZ0qA4qQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1738652013773?e=1739944800&v=beta&t=czHLbjVVvJMlecxJJkL9_c9_Zg4MNrqNNusDn2mHIWA
+  path: /assets/img/BionicHand.png
   srcset: 
-    1920w: https://media.licdn.com/dms/image/v2/D562DAQEmMclZ0qA4qQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1738652013773?e=1739944800&v=beta&t=czHLbjVVvJMlecxJJkL9_c9_Zg4MNrqNNusDn2mHIWA
-    960w:  https://media.licdn.com/dms/image/v2/D562DAQEmMclZ0qA4qQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1738652013773?e=1739944800&v=beta&t=czHLbjVVvJMlecxJJkL9_c9_Zg4MNrqNNusDn2mHIWA
-    480w:  https://media.licdn.com/dms/image/v2/D562DAQEmMclZ0qA4qQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1738652013773?e=1739944800&v=beta&t=czHLbjVVvJMlecxJJkL9_c9_Zg4MNrqNNusDn2mHIWA
+    1920w: /assets/img/BionicHand.png
+    960w:  /assets/img/BionicHand.png
+    480w:  /assets/img/BionicHand.png
 links:
   - title: Link
     url: https://www.linkedin.com/in/tommy-ang-7520a423a/?trk=opento_sprofile_details
