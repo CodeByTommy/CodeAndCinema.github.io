@@ -4,11 +4,11 @@ title: "Bridging AI & IoT: My Technical Projects"
 description: >
   Exploring my AI-driven technical projects—CodeLimb and VisionMed—and how they push the boundaries of intelligent systems and automation.
 image: 
-  path: https://media.licdn.com/dms/image/v2/D562DAQEmMclZ0qA4qQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1738652013773?e=1739383200&v=beta&t=fcZBsbta_yCHm8Vr4PiLmTtCfQ-Y1U91x6_chcvBuig
+  path: /assets/img/CraftHealth.jpg
   srcset:
-    1060w: https://media.licdn.com/dms/image/v2/D562DAQEmMclZ0qA4qQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1738652013773?e=1739383200&v=beta&t=fcZBsbta_yCHm8Vr4PiLmTtCfQ-Y1U91x6_chcvBuig
-    530w:  https://media.licdn.com/dms/image/v2/D562DAQEmMclZ0qA4qQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1738652013773?e=1739383200&v=beta&t=fcZBsbta_yCHm8Vr4PiLmTtCfQ-Y1U91x6_chcvBuig
-    265w:  https://media.licdn.com/dms/image/v2/D562DAQEmMclZ0qA4qQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1738652013773?e=1739383200&v=beta&t=fcZBsbta_yCHm8Vr4PiLmTtCfQ-Y1U91x6_chcvBuig
+    1060w: /assets/img/CraftHealth.jpg
+    530w:  /assets/img/CraftHealth.jpg
+    265w:  /assets/img/CraftHealth.jpg
 # related_posts:
 #   - example/_posts/2017-11-23-example-content-ii.md
 #   - /example/2012-02-07-example-content/
