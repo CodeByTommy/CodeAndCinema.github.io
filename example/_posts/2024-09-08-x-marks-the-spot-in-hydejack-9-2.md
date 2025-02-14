@@ -3,11 +3,11 @@ layout: post
 description: > 
   How I use LinkedIn to share my insights on AI, IoT, and cinematic storytelling while growing my professional network.
 image: 
-  path: https://media.licdn.com/dms/image/v2/D562DAQH5lh6QnU3DhQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738736347807?e=1739343600&v=beta&t=RO0Gd30pOkGo0RQHrpeYknQ9Yre27O82KVKRag_BV_g
+  path: /assets/img/BlogBanner.png
   srcset: 
-    1920w: https://media.licdn.com/dms/image/v2/D562DAQH5lh6QnU3DhQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738736347807?e=1739343600&v=beta&t=RO0Gd30pOkGo0RQHrpeYknQ9Yre27O82KVKRag_BV_g
-    960w:  https://media.licdn.com/dms/image/v2/D562DAQH5lh6QnU3DhQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738736347807?e=1739343600&v=beta&t=RO0Gd30pOkGo0RQHrpeYknQ9Yre27O82KVKRag_BV_g
-    480w:  https://media.licdn.com/dms/image/v2/D562DAQH5lh6QnU3DhQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738736347807?e=1739343600&v=beta&t=RO0Gd30pOkGo0RQHrpeYknQ9Yre27O82KVKRag_BV_g
+    1920w: /assets/img/BlogBanner.png
+    960w:  /assets/img/BlogBanner.png
+    480w:  /assets/img/BlogBanner.png
 accent_image: https://t3.ftcdn.net/jpg/01/83/50/32/360_F_183503230_heDoLySnwt4W968RVTJOf7LFHbkZdCHA.jpg
 excerpt_separator: <!--more-->
 sitemap: True
