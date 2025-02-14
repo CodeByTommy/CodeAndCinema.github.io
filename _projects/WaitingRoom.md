@@ -9,11 +9,11 @@ description: >
   
 date: '01-04-2023'
 image: 
-  path: https://media.licdn.com/dms/image/v2/D562DAQFonf86TDsmLg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738774687780?e=1740020400&v=beta&t=HWk5vG-aU4nYLNkFZzpZ6HJXQXolp4Ov5sqnAqxcwlA
+  path: /assets/img/WaitingRoom.png
   srcset: 
-    1920w: https://media.licdn.com/dms/image/v2/D562DAQFonf86TDsmLg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738774687780?e=1740020400&v=beta&t=HWk5vG-aU4nYLNkFZzpZ6HJXQXolp4Ov5sqnAqxcwlA
-    960w:  https://media.licdn.com/dms/image/v2/D562DAQFonf86TDsmLg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738774687780?e=1740020400&v=beta&t=HWk5vG-aU4nYLNkFZzpZ6HJXQXolp4Ov5sqnAqxcwlA
-    480w:  https://media.licdn.com/dms/image/v2/D562DAQFonf86TDsmLg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1738774687780?e=1740020400&v=beta&t=HWk5vG-aU4nYLNkFZzpZ6HJXQXolp4Ov5sqnAqxcwlA
+    1920w: /assets/img/WaitingRoom.png
+    960w:  /assets/img/WaitingRoom.png
+    480w:  /assets/img/WaitingRoom.png
 links:
   - title: Link
     url: https://www.youtube.com/watch?v=NivWrGfiqKA&list=PLmyLsh61IFdzxcEls917HZ3Wkfty_bobA&index=2
