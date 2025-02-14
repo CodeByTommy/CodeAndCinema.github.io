@@ -9,11 +9,11 @@ description: >
 
 date: '01-11-2023'
 image: 
-  path: https://media.licdn.com/dms/image/sync/v2/D5627AQFbKt8znT1LbQ/articleshare-shrink_800/articleshare-shrink_800/0/1738650224472?e=1739948400&v=beta&t=tV1WJj5MUWBUm2IEybu0hGhdOpaClQx7qwTw7UoPzfQ
+  path: /assets/img/Trace.png
   srcset: 
-    1920w: https://media.licdn.com/dms/image/sync/v2/D5627AQFbKt8znT1LbQ/articleshare-shrink_800/articleshare-shrink_800/0/1738650224472?e=1739948400&v=beta&t=tV1WJj5MUWBUm2IEybu0hGhdOpaClQx7qwTw7UoPzfQ
-    960w:  https://media.licdn.com/dms/image/sync/v2/D5627AQFbKt8znT1LbQ/articleshare-shrink_800/articleshare-shrink_800/0/1738650224472?e=1739948400&v=beta&t=tV1WJj5MUWBUm2IEybu0hGhdOpaClQx7qwTw7UoPzfQ
-    480w:  https://media.licdn.com/dms/image/sync/v2/D5627AQFbKt8znT1LbQ/articleshare-shrink_800/articleshare-shrink_800/0/1738650224472?e=1739948400&v=beta&t=tV1WJj5MUWBUm2IEybu0hGhdOpaClQx7qwTw7UoPzfQ
+    1920w: /assets/img/Trace.png
+    960w:  /assets/img/Trace.png
+    480w:  /assets/img/Trace.png
 links:
   - title: Link
     url: https://www.youtube.com/watch?v=VgzobnepkV4&list=PLmyLsh61IFdzxcEls917HZ3Wkfty_bobA
