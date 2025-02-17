@@ -54,10 +54,9 @@ This site showcases my work across **AI, engineering, finance, and storytelling*
 ---
 
 ## 🔗 **Other Useful Links**
-- **GitHub:** [My code & projects](https://github.com/yourgithubprofile)  
-- **LinkedIn:** [My professional profile](https://linkedin.com/in/yourprofile)  
-- **YouTube:** [My film work](https://youtube.com/yourchannel)  
-- **Resume:** [Download my CV (PDF)](/resume.pdf)  
+- **LinkedIn:** [My professional profile](https://linkedin.com/in/tommy-ang-7520a423a/)  
+- **YouTube:** [My film work](https://www.youtube.com/watch?v=VgzobnepkV4&list=PLmyLsh61IFdzxcEls917HZ3Wkfty_bobA&index=2)  
+- **Resume:** [Download my CV (PDF)](/assets/img/blog/resume.pdf)  
 
 ---
 
