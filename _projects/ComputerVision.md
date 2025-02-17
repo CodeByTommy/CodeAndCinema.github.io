@@ -24,13 +24,17 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-Hi, I’m Tommy Ang, a Computer Engineer with a passion for storytelling.  
-My work blends the precision of software development with the emotional depth of film,  
-exploring how technology and narrative intersect.  
+VisionMed: AI-Powered Pharmaceutical Quality Control
 
-Whether it’s building automation solutions, developing computer vision models,  
-or crafting cinematic experiences, I strive to create work that is both functional and evocative.  
-Welcome to my space, where engineering meets creativity.
+VisionMed is an advanced computer vision system designed to automate and enhance pharmaceutical quality control through real-time defect detection. By leveraging deep learning models, AI-driven automation, and edge computing, the system ensures precise identification of defective pharmaceutical tablets, improving both efficiency and accuracy in the manufacturing process.
+
+The core of VisionMed is its convolutional neural network (CNN) models, trained on vast pharmaceutical datasets to identify defects, shape inconsistencies, discoloration, and imprint errors in real time. Built using TensorFlow and OpenCV, the model achieves high accuracy in classifying tablets, reducing manual inspection workload by over 50% and improving defect detection rates.
+
+To optimize industrial implementation, VisionMed integrates Edge AI processing, allowing real-time analysis directly on embedded systems without relying on cloud computing. This reduces latency, enhances data security, and ensures scalability for large-scale pharmaceutical production lines. The system is also capable of automated sorting and rejection mechanisms, allowing immediate action when defective products are detected.
+
+Future advancements will focus on expanding AI training datasets, improving adaptive learning for new tablet formulations, and optimizing model efficiency for real-time deployment in large-scale production environments. VisionMed is a transformative step in AI-driven quality control, ensuring safer, more reliable pharmaceutical manufacturing worldwide.
+
+
 
 <!-- For my personal site I've toned it down a bit. Instead of a flashy sidebar image, I chose a solid background color.
 However, I've given [certain](https://qwtel.com/projects/ducky-hunting/) [pages](https://qwtel.com/projects/blocky-blocks/) big sidebar images, and let Hydejack blend back to normal when the user navigates away.
