@@ -14,7 +14,7 @@ Here, you’ll find my work across multiple disciplines:
 
 ## **🛠 Explore My Work**
 🔹 **[Projects](/projects/)** – AI, automation, and cinematic projects.  
-🔹 **[Resume](/resume/)** – My career from military intelligence to AI & finance.  
+🔹 **[Resume](/resume/)** – My career from Army intel to AI & finance.  
 🔹 **[Blog](/blog/)** – Thoughts on tech, finance, and storytelling.  
 
 ---
@@ -36,6 +36,6 @@ If you’re interested in **collaborating, learning more about my work, or discu
 
 🔹 **[YouTube](https://www.youtube.com/watch?v=VgzobnepkV4&list=PLmyLsh61IFdzxcEls917HZ3Wkfty_bobA)** – My cinematic storytelling.  
 
-🔹 **[Email](angyl94@hotmail.com)** – Let’s chat!  
+🔹 **[Email](Tang030@e.ntu.edu.sg)** – Let’s chat!  
 
 🚀 **Explore. Learn. Create. Welcome to my world.**  
