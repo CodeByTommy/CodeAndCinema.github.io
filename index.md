@@ -36,6 +36,5 @@ If you’re interested in **collaborating, learning more about my work, or discu
 
 🔹 **[YouTube](https://www.youtube.com/watch?v=VgzobnepkV4&list=PLmyLsh61IFdzxcEls917HZ3Wkfty_bobA)** – My cinematic storytelling.  
 
-🔹 **[Email](Tang030@e.ntu.edu.sg)** – Let’s chat!  
 
 🚀 **Explore. Learn. Create. Welcome to my world.**  
