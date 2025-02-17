@@ -23,11 +23,15 @@ accent_image: /assets/img/sidebar-bg.jpg
 theme_color: '#193747'
 sitemap: false
 ---
-CodeLimb is where innovation meets intelligence.  
-Combining expertise in software development, automation, and AI,  
-DevMinds builds smarter technology to solve real-world challenges.  
-From cutting-edge computer vision applications to advanced robotics  
-and testing automation, every project is driven by precision, efficiency, and creativity. 
+CodeLimb: Intelligent Prosthetics for a Connected Future
+
+CodeLimb is an innovative bionic arm system that bridges artificial intelligence, IoT, and embedded engineering to create an affordable, modular prosthetic solution. This project leverages non-invasive motion tracking, real-time data processing, and adaptive control mechanisms to replicate natural limb movements with precision.
+
+Designed with modularity and accessibility in mind, the system features a wearable IoT glove equipped with sensors that detect motion from the user’s existing limb, transmitting data wirelessly to a STM32-based control unit. This ensures low-latency, real-time adaptation, with a response time of 0.1 to 0.3 seconds and motion accuracy of 80%.
+
+Incorporating machine learning-driven gesture recognition, CodeLimb explores the potential of AI-enhanced prosthetics—allowing intuitive responses to predefined gestures like clapping, walking, and object manipulation. With 3D-printed components, the design is scalable and cost-effective, making it possible to produce and customize the prosthetic anywhere in the world.
+
+By addressing the limitations of current prosthetic solutions—such as high cost, limited adaptability, and lack of real-time responsiveness—CodeLimb is a significant step toward democratizing assistive technology. Future iterations will focus on strength testing, improved sensitivity, and advanced AI integration, further refining its role in enhancing mobility and improving the quality of life for individuals with limb impairments.
 
 
 <!-- For my personal site I've toned it down a bit. Instead of a flashy sidebar image, I chose a solid background color.
