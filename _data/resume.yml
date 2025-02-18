@@ -18,12 +18,17 @@ basics:
     countryCode: "SG"
     region: "Asia"
   profiles:
-    - network: "Twitter"
-      username: "Tyll94"
-      url: ""
+    - network: "Telegram"
+      username: "yuilniol"
+      url: "https://t.me/yuliniol"
     - network: "LinkedIn"
       username: "Tommy Ang"
       url: "https://linkedin.com/in/tommy-ang-7520a423a/"
+    - network: "youtube"
+      username: "Cinematic Story"
+      url: "https://www.youtube.com/watch?v=VgzobnepkV4&list=PLmyLsh61IFdzxcEls917HZ3Wkfty_bobA"
+    - network: "email"
+      username: "Tang030@e.ntu.edu.sg"
 
 work:
   - company: "Craft Health Pte. Ltd"
