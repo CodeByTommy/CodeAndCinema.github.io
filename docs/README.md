@@ -41,7 +41,7 @@ This site showcases my work across **AI, engineering, finance, and storytelling*
 🔹 **New here?** Start with these pages:
 - **[My Resume](/resume/)** – Learn about my background.
 - **[Projects](/projects/)** – Explore my work in **AI, engineering, and film**.
-- **[YouTube](/youtube/)** – Watch my cinematic projects.
+- **[YouTube]((https://www.youtube.com/watch?v=VgzobnepkV4&list=PLmyLsh61IFdzxcEls917HZ3Wkfty_bobA&index=2))** – Watch my cinematic projects.
 
 🔹 **Interested in AI & IoT?**
 - Check out **[Bionic Arm and AI in Parma (CodeLimb & VisionMed)](/blog/example/2018-06-01-example-content-iii/)**.
