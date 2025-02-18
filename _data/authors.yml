@@ -30,9 +30,11 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    # twitter:         <username>
+    # github:          <username>
+    telegram:        https://t.me/yuliniol
+    email:           <Tang030@e.ntu.edu.sg>
+    linkedin:        tommy-ang-7520a423a
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -61,7 +63,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
@@ -87,7 +88,7 @@ author1:
 # Another author (optional)
 author2:
   name:              <Tommy> <Ang>
-  email:             <angyl94@hotmail.com>
+  email:             <Tang030@e.ntu.edu.sg>
   about:             |
     Hi, I am Tommy Ang, a Computer Engineer with a passion for storytelling.  
     My work blends the precision of software development with the emotional depth of film,  
@@ -98,5 +99,5 @@ author2:
     Welcome to my space, where engineering meets creativity.
 
   picture:           https://drive.google.com/file/d/1jzICSA5nBnudf0Fy2kSFmXdHAWtq7uW0/view?usp=drive_link
-  twitter:           <username>
-  github:            <username>
+  # twitter:           <username>
+  # github:            <username>
