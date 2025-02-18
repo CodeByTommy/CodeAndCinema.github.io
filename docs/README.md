@@ -42,9 +42,11 @@ This site showcases my work across **AI, engineering, finance, and storytelling*
 - **[My Resume](/resume/)** – Learn about my background.
 - **[Projects](/projects/)** – Explore my work in **AI, engineering, and film**.
 
+
 🔹 **Interested in AI & IoT?**
 - Check out **[Bionic Arm and AI in Parma (CodeLimb & VisionMed)](/blog/example/2018-06-01-example-content-iii/)**.
 - Read about **[Cinemaetic StoryTelling](/blog/example/2020-07-03-introducing-hydejack-9/)**.
+
 
 🔹 **Looking for Career & Finance Insights?**
 - Read about my journey from **military to engineering & finance** in **[this blog post](/blog/example/2012-02-07-example-content/)**.
