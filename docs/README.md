@@ -44,11 +44,11 @@ This site showcases my work across **AI, engineering, finance, and storytelling*
 - **[YouTube](/youtube/)** – Watch my cinematic projects.
 
 🔹 **Interested in AI & IoT?**
-- Check out **[Bionic Arm (CodeLimb)](/projects/bionic-arm)**.
-- Read about **[VisionMed: AI in Pharma](/projects/visionmed)**.
+- Check out **[Bionic Arm and AI in Parma (CodeLimb & VisionMed)](/blog/example/2018-06-01-example-content-iii/)**.
+- Read about **[Cinemaetic StoryTelling](/blog/example/2020-07-03-introducing-hydejack-9/)**.
 
 🔹 **Looking for Career & Finance Insights?**
-- Read about my journey from **military to engineering & finance** in **[this blog post](/blog/career-evolution)**.
+- Read about my journey from **military to engineering & finance** in **[this blog post](/blog/example/2012-02-07-example-content/)**.
 - Learn about **AI’s role in financial planning**.
 
 ---
@@ -60,7 +60,6 @@ This site showcases my work across **AI, engineering, finance, and storytelling*
 
 ---
 
-If you have questions or want to collaborate, feel free to **[reach out](/contact/)**. 🚀🔥  
 
 
 
