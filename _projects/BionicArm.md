@@ -25,6 +25,12 @@ sitemap: false
 ---
 CodeLimb: Intelligent Prosthetics for a Connected Future
 
+CodeLimb is not just an experience, a reflection, a whisper from the past captured on celluloid.
+
+  Watch *CodeLimb* here: [<a href="https://youtu.be/U3bRlKmGDsU">*CodeLimb*</a>] 
+  
+  https://youtu.be/U3bRlKmGDsU
+
 CodeLimb is an innovative bionic arm system that bridges artificial intelligence, IoT, and embedded engineering to create an affordable, modular prosthetic solution. This project leverages non-invasive motion tracking, real-time data processing, and adaptive control mechanisms to replicate natural limb movements with precision.
 
 Designed with modularity and accessibility in mind, the system features a wearable IoT glove equipped with sensors that detect motion from the user’s existing limb, transmitting data wirelessly to a STM32-based control unit. This ensures low-latency, real-time adaptation, with a response time of 0.1 to 0.3 seconds and motion accuracy of 80%.
