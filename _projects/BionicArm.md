@@ -29,7 +29,7 @@ CodeLimb is not just an experience, a reflection, a whisper from the past captur
 
   Watch *CodeLimb* here: [<a href="https://youtu.be/U3bRlKmGDsU">*CodeLimb*</a>] 
   
-  https://youtu.be/U3bRlKmGDsU
+https://youtu.be/U3bRlKmGDsU
 
 CodeLimb is an innovative bionic arm system that bridges artificial intelligence, IoT, and embedded engineering to create an affordable, modular prosthetic solution. This project leverages non-invasive motion tracking, real-time data processing, and adaptive control mechanisms to replicate natural limb movements with precision.
 
